@@ -1,0 +1,25 @@
+NET "CLK" LOC = p181 ;
+
+NET "DATA_IN[7]" LOC = p24 ;
+NET "DATA_IN[6]" LOC = p26 ;
+NET "DATA_IN[5]" LOC = p27 ;
+NET "DATA_IN[4]" LOC = p28 ;
+NET "DATA_IN[3]" LOC = p29 ;
+NET "DATA_IN[2]" LOC = p31 ;
+NET "DATA_IN[1]" LOC = p33 ;
+NET "DATA_IN[0]" LOC = p34 ;
+
+NET "SEG_SEL[3]" LOC = p130 ;
+NET "SEG_SEL[2]" LOC = p128 ;
+NET "SEG_SEL[1]" LOC = p126 ;
+NET "SEG_SEL[0]" LOC = p125 ;
+
+NET "SEG_OUT[7]" LOC = p131 ;
+NET "SEG_OUT[6]" LOC = p132 ;
+NET "SEG_OUT[5]" LOC = p133 ;
+NET "SEG_OUT[4]" LOC = p135 ;
+NET "SEG_OUT[3]" LOC = p137 ;
+NET "SEG_OUT[2]" LOC = p138 ;
+NET "SEG_OUT[1]" LOC = p139 ;
+NET "SEG_OUT[0]" LOC = p140 ;
+

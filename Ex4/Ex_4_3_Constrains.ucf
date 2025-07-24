@@ -1,0 +1,20 @@
+NET "COM[3]" LOC = p130 ;
+NET "COM[2]" LOC = p128 ;
+NET "COM[1]" LOC = p126 ;
+NET "COM[0]" LOC = p125 ;
+
+NET "PS2_code_out[7]" LOC = p131 ;
+NET "PS2_code_out[6]" LOC = p132 ;
+NET "PS2_code_out[5]" LOC = p133 ;
+NET "PS2_code_out[4]" LOC = p135 ;
+NET "PS2_code_out[3]" LOC = p137 ;
+NET "PS2_code_out[2]" LOC = p138 ;
+NET "PS2_code_out[1]" LOC = p139 ;
+NET "PS2_code_out[0]" LOC = p140 ;
+
+NET "CLK_50MHz" LOC = p80;
+NET "PS2_CLK" LOC = p64;
+NET "PS2_data" LOC = p63;
+NET "PS2_code_new" LOC = p93;
+
+

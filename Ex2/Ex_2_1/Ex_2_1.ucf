@@ -1,0 +1,2 @@
+NET "CLK_IN" LOC = p80 ;
+NET "CLK_OUT" LOC = p93 ;

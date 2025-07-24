@@ -1,0 +1,23 @@
+NET "inDigit[3]" LOC = p29 ;
+NET "inDigit[2]" LOC = p31 ;
+NET "inDigit[1]" LOC = p33 ;
+NET "inDigit[0]" LOC = p34 ;
+
+NET "inSelect[3]" LOC = p9 ;
+NET "inSelect[2]" LOC = p10 ;
+NET "inSelect[1]" LOC = p11 ;
+NET "inSelect[0]" LOC = p12 ;
+
+NET "outSelect[3]" LOC = p130 ;
+NET "outSelect[2]" LOC = p128 ;
+NET "outSelect[1]" LOC = p126 ;
+NET "outSelect[0]" LOC = p125 ;
+
+NET "out7Seg[7]" LOC = p131 ;
+NET "out7Seg[6]" LOC = p132 ;
+NET "out7Seg[5]" LOC = p133 ;
+NET "out7Seg[4]" LOC = p135 ;
+NET "out7Seg[3]" LOC = p137 ;
+NET "out7Seg[2]" LOC = p138 ;
+NET "out7Seg[1]" LOC = p139 ;
+NET "out7Seg[0]" LOC = p140 ;

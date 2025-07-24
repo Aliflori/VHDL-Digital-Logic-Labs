@@ -1,0 +1,27 @@
+NET "CLK" LOC = P80;
+
+NET "Column[1]" LOC = P19;
+NET "Column[2]" LOC = P20;
+NET "Column[3]" LOC = P21;
+NET "Column[4]" LOC = P22;
+
+NET "Row[1]" LOC = P18;
+NET "Row[2]" LOC = P16;
+NET "Row[3]" LOC = P15;
+NET "Row[4]" LOC = P13;
+
+NET "COM[0]" LOC = P125;
+NET "COM[0]" LOC = P126;
+
+NET "Output[7]" LOC = P131;
+NET "Output[6]" LOC = P132;
+NET "Output[5]" LOC = P133;
+NET "Output[4]" LOC = P135;
+NET "Output[3]" LOC = P137;
+NET "Output[2]" LOC = P138;
+NET "Output[1]" LOC = P139;
+NET "Output[0]" LOC = P140;
+
+
+
+
